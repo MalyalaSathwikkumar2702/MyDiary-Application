@@ -21,6 +21,7 @@ views under
 7.userhomepage.jsp
 * dispatcher-servlet.xml (configuration of database , view resolver , hibernate , session factory)
 * web.xml (dispatcher)
+8.index.jsp
 ****************************************
 under target
 pom.xml (dependancies)
